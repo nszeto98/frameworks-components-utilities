@@ -1,0 +1,14 @@
+{
+  "name": "parcel-sandbox",
+  "version": "1.0.0",
+  "description": "Simple Parcel Sandbox",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "scripts": {
+    "test:solution": "exit 0"
+  }
+}
